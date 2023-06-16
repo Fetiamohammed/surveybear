@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\apps",
+    "\\apps\\surveybear-survey-spa"
+  ],
+  "SelectedNode": "\\apps\\surveybear-survey-spa\\.env",
+  "PreviewInSolutionExplorer": false
+}
